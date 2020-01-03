@@ -19,3 +19,8 @@ Import ybot@punch.fbx and ybot@kick.fbx into Blender the same way you did ybot.f
 
 Rename Armature to Character, and rename all animations, as shown in the image below (bordered red):
 <img src="/img/5.png" alt="alt text" width="400px">  
+
+Delete Armature.001 and Armature.002.
+
+As shown in the image below (bordered red), select Character (top right), click in the center of the circle (bottom right) and drag up to create a new sub-window. Select Dope Sheet (bottom left) and Action Editor (next to it), and select an animation (middle). Click play (bottom middle) to play animation. If your character is not animating, maybe you didn't select Character (top right bordered in red).
+<img src="/img/6.png" alt="alt text" width="400px">  
