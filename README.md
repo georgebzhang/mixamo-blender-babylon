@@ -52,5 +52,5 @@ before "instances":[]. Save your .babylon file.
 Go to [Babylon.js Sandbox](https://sandbox.babylonjs.com/). Drag your .babylon file into the browser.
 
 <p align="center">
-  <a href="https://www.youtube.com/embed/_f4z--WKsU4" target="_blank"><img src="http://img.youtube.com/vi/ANHBRIqlhzA/0.jpg" alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
+  <a href="https://www.youtube.com/embed/_f4z--WKsU4" target="_blank"><img src="/img/13.png" alt="IMAGE ALT TEXT HERE" width="240" border="10" /></a>
 </p>
