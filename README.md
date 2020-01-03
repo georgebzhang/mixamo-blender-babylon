@@ -33,3 +33,16 @@ As shown in the image below (bordered red), in Object Mode, press A to select al
 
 As shown in the image below (bordered red), press Ctrl + A to apply. Click All Transforms. Location should all be set to 0, Rotation all to 0, and Scale all to 1.  
 <img src="/img/9.png" alt="alt text" width="400px">  
+
+We need to change the two materials, as shown in the image below. Something about them is incompatible with .babylon format.
+<img src="/img/10.png" alt="alt text" width="400px">  
+
+Click Alpha_Joints_MAT. As shown in the image below (bordered red), click Material Properties (bottom most), Browse Materials (slightly above), and select Material (slightly above). Do the same for Alpha_Body_MAT.
+<img src="/img/11.png" alt="alt text" width="400px">  
+
+In Blender top menu, click File → Export → Babylon.js ver 6.2.3. Click Export Babylon.js scene.
+
+Open the .babylon file in Notepad. Scroll to bottom, and paste the following text    
+"autoAnimate": true,"autoAnimateFrom": 1,"autoAnimateTo": 152,"autoAnimateLoop": true,    
+before "instances":[]  
+<img src="/img/12.png" alt="alt text" width="400px">  
