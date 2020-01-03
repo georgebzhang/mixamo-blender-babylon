@@ -26,7 +26,7 @@ As shown in the image below (bordered red), select Character (top right), click 
 <img src="/img/6.png" alt="alt text" width="500px">  
 
 Change animation back to TPose from Kick. In Blender, press N, which opens the Transform tab. Note that Rotation is not all 0° and Scale is all 0.010 instead of 1.  
-<img src="/img/7.png" alt="alt text" width="500px">  
+<img src="/img/7a.png" alt="alt text" width="500px">  
 
 As shown in the image below (bordered red), in Object Mode, press A to select all. Press S to scale. Type 100 to scale from 0.010 to 1.  
 <img src="/img/8.png" alt="alt text" width="500px">  
