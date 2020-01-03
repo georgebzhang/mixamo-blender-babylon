@@ -28,5 +28,8 @@ As shown in the image below (bordered red), select Character (top right), click 
 Change animation back to TPose from Kick. In Blender, press N, which opens the Transform tab. Note that Rotation is not all 0° and Scale is all 0.010 instead of 1.  
 <img src="/img/7.png" alt="alt text" width="400px">  
 
-As shown in the image below (bordered red), change from Dope Sheet to Graph Editor. Follow the red text instructions in the below image for scaling.  
+As shown in the image below (bordered red), in Object Mode, press A to select all. Press S to scale. Type 100 to scale from 0.010 to 1.  
 <img src="/img/8.png" alt="alt text" width="400px">  
+
+As shown in the image below (bordered red), press Ctrl + A to apply. Click All Transforms. Location should all be set to 0, Rotation all to 0, and Scale all to 1.  
+<img src="/img/9.png" alt="alt text" width="400px">  
