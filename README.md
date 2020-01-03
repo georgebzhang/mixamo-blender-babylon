@@ -51,4 +51,6 @@ before "instances":[]. Save your .babylon file.
 
 Go to [Babylon.js Sandbox](https://sandbox.babylonjs.com/). Drag your .babylon file into the browser.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/_f4z--WKsU4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<p align="center">
+  <a href="https://www.youtube.com/embed/_f4z--WKsU4" target="_blank"></a>
+</p>
