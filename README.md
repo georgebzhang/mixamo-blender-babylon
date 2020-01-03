@@ -42,9 +42,11 @@ Click Alpha_Joints_MAT. As shown in the image below (bordered red), click Materi
 
 In Blender top menu, click File → Export → Babylon.js ver 6.2.3. Click Export Babylon.js scene.
 
-Open the .babylon file in Notepad. Scroll to bottom, and paste the following text  
+Open your .babylon file in Notepad. Scroll to bottom, and paste the following text  
   
 "autoAnimate": true,"autoAnimateFrom": 1,"autoAnimateTo": 152,"autoAnimateLoop": true,  
   
-before "instances":[]  
+before "instances":[]. Save your .babylon file.  
 <img src="/img/12.png" alt="alt text" width="400px">  
+
+Go to [Babylon.js Sandbox](https://sandbox.babylonjs.com/). Drag your .babylon file into the browser.
