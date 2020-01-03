@@ -22,5 +22,11 @@ Rename Armature to Character, and rename all animations, as shown in the image b
 
 Delete Armature.001 and Armature.002.  
 
-As shown in the image below (bordered red), select Character (top right), click in the center of the circle (bottom right) and drag up to create a new sub-window. Select Dope Sheet (bottom left) and Action Editor (next to it), and select an animation (middle). Click play (bottom middle) to play animation. If your character is not animating, maybe you didn't select Character (top right bordered in red).  
+As shown in the image below (bordered red), select Character (top right), click in the center of the circle (bottom right) and drag up to create a new sub-window. Select Dope Sheet (bottom left) and Action Editor (next to it), and select an animation (middle), e.g. Kick. Click play (bottom middle) to play animation. If your character is not animating, maybe you didn't select Character (top right bordered in red).  
 <img src="/img/6.png" alt="alt text" width="400px">  
+
+Change animation back to TPose from Kick. In Blender, press N, which opens the Transform tab. Note that Rotation is not all 0° and Scale is all 0.010 instead of 1.  
+<img src="/img/7.png" alt="alt text" width="400px">  
+
+As shown in the image below (bordered red), change from Dope Sheet to Graph Editor. Follow the red text instructions in the below image for scaling.  
+<img src="/img/8.png" alt="alt text" width="400px">  
