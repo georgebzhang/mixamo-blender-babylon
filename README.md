@@ -67,4 +67,6 @@ Click image to watch Youtube video:
   <a href="https://www.youtube.com/embed/_f4z--WKsU4" target="_blank"><img src="/img/13.png" alt="IMAGE ALT TEXT HERE" width="240" border="10" /></a>
 </p>  
 
+Check out this Babylon.js Demo: [Dancers](https://www.babylonjs.com/demos/dancers/). In this demo, a .babylon model of the dancer is loaded just once! Its mesh and skeleton are cloned many times. The dance animation can be applied to each cloned skeleton separately whenever we choose!  
+
 All .fbx, .blend, and .babylon files are included in files/.  
