@@ -1,5 +1,6 @@
 # mixamo-blender-babylon
-Tutorial
+
+Download and install [Blender to Babylon.js exporter](https://github.com/BabylonJS/BlenderExporter). [Installation instructions](https://doc.babylonjs.com/resources/blender#installation)  
 
 From [Mixamo](www.mixamo.com), under Characters, select Y Bot. Download Y Bot with the following settings:  
 <img src="/img/1.png" alt="alt text" width="500px">  
@@ -23,7 +24,7 @@ Rename Armature to Character, and rename all animations, as shown in the image b
 Delete Armature.001 and Armature.002.  
 
 As shown in the image below (bordered red), select Character (top right), click in the center of the circle (bottom right) and drag up to create a new sub-window. Select Dope Sheet (bottom left) and Action Editor (next to it), and select an animation (middle), e.g. Kick. Click play (bottom middle) to play animation. If your character is not animating, maybe you didn't select Character (top right bordered in red).  
-<img src="/img/6.png" alt="alt text" width="500px">  
+<img src="/img/6a.png" alt="alt text" width="500px">  
 
 Change animation back to TPose from Kick. In Blender, press N, which opens the Transform tab. Note that Rotation is not all 0° and Scale is all 0.010 instead of 1.  
 <img src="/img/7a.png" alt="alt text" width="500px">  
@@ -41,6 +42,7 @@ Click Alpha_Joints_MAT. As shown in the image below (bordered red), click Materi
 <img src="/img/11.png" alt="alt text" width="500px">  
 
 In Blender top menu, click File → Export → Babylon.js ver 6.2.3. Click Export Babylon.js scene.  
+<img src="/img/11a.png" alt="alt text" width="500px">  
 
 Open your .babylon file in Notepad. Scroll to bottom, and paste the following text  
   
