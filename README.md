@@ -1,6 +1,6 @@
 # mixamo-blender-babylon
 
-Download and install [Blender to Babylon.js exporter](https://github.com/BabylonJS/BlenderExporter). [Installation instructions](https://doc.babylonjs.com/resources/blender#installation)  
+Download and install [Blender to Babylon.js exporter](https://github.com/BabylonJS/BlenderExporter). Here are the [Installation instructions](https://doc.babylonjs.com/resources/blender#installation).  
 
 From [Mixamo](www.mixamo.com), under Characters, select Y Bot. Download Y Bot with the following settings:  
 <img src="/img/1.png" alt="alt text" width="500px">  
