@@ -57,7 +57,7 @@ autoAnimate lets your model animate automatically when dragged into the Babylon.
 <img src="/img/12a.png" alt="alt text" width="500px">  
 
 How to trigger these animations in Babylon.js code? Check out this Babylon.js playground: [Animation blending](https://www.babylonjs-playground.com/#BCU1XR#0).  
-<img src="/img/12b.png" alt="alt text" width="500px">  
+<img src="/img/12c.png" alt="alt text" width="500px">  
 
 Click image to watch Youtube video:  
 <p align="center">
