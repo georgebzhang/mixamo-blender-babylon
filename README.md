@@ -23,7 +23,7 @@ Rename Armature to Character, and rename all animations, as shown in the image b
 
 Delete Armature.001 and Armature.002.  
 
-As shown in the image below (bordered red), select Character (top right), click in the center of the circle (bottom right) and drag up to create a new sub-window. Select Dope Sheet (bottom left) and Action Editor (next to it), and select an animation (middle), e.g. Kick. Click play (bottom middle) to play animation. If your character is not animating, maybe you didn't select Character (top right bordered in red).  
+As shown in the image below (bordered red), select Character (top right), click in the center of the circle (bottom right) and drag up to create a new sub-window. Select Dope Sheet (bottom left) and Action Editor (next to it), and select an animation (middle), e.g. Kick. Click play (bottom middle) to play animation. If your character is not animating, maybe you didn't select Character (top right bordered in red). Also, make sure you're in Object Mode.  
 <img src="/img/6a.png" alt="alt text" width="500px">  
 
 Change animation back to TPose from Kick. In Blender, press N, which opens the Transform tab. Note that Rotation is not all 0° and Scale is all 0.010 instead of 1.  
@@ -52,6 +52,12 @@ before "instances":[]. Save your .babylon file.
 <img src="/img/12.png" alt="alt text" width="500px">  
 
 Go to [Babylon.js Sandbox](https://sandbox.babylonjs.com/). Drag your .babylon file into the browser.  
+
+autoAnimate lets your model animate automatically when dragged into the Babylon.js Sandbox. Why autoAnimateTo frame 152? According to the Sandbox animation and the image of the .babylon file below, all 3 animations (Kick, Punch, and TPose) take a total of 152 frames.  
+<img src="/img/12a.png" alt="alt text" width="500px">  
+
+How to trigger these animations in Babylon.js code? Check out this Babylon.js playground: [Animation blending](https://www.babylonjs-playground.com/#BCU1XR#0).  
+<img src="/img/12b.png" alt="alt text" width="500px">  
 
 Click image to watch Youtube video:  
 <p align="center">
