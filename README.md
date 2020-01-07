@@ -43,7 +43,7 @@ Click Alpha_Joints_MAT. As shown in the image below (bordered red), click Materi
 <img src="/img/11.png" alt="alt text" width="500px">  
 
 In Blender top menu, click File → Export → Babylon.js ver 6.2.3. Click Export Babylon.js scene.  
-<img src="/img/11a.png" alt="alt text" width="500px">  
+<img src="/img/11b.png" alt="alt text" width="500px">  
 
 Open your .babylon file in Notepad. Scroll to bottom, and paste the following text  
   
