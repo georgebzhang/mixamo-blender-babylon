@@ -42,6 +42,7 @@ We need to change the two materials, as shown in the image below. Something abou
 
 Click Alpha_Joints_MAT. As shown in the image below (bordered red), click Material Properties (bottom most), Browse Materials (slightly above), and select Material (slightly above). Do the same for Alpha_Body_MAT.  
 <img src="/img/11.png" alt="alt text" width="500px">  
+You should be able to add custom colors and other material properties to Material.  
 
 In Blender top menu, click File → Export → Babylon.js ver 6.2.3. Click Export Babylon.js scene.  
 <img src="/img/11b.png" alt="alt text" width="500px">  
