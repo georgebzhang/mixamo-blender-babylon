@@ -63,3 +63,5 @@ Click image to watch Youtube video:
 <p align="center">
   <a href="https://www.youtube.com/embed/_f4z--WKsU4" target="_blank"><img src="/img/13.png" alt="IMAGE ALT TEXT HERE" width="240" border="10" /></a>
 </p>  
+
+All .fbx, .blend, and .babylon files are included in files/.  
