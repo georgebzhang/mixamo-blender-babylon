@@ -32,9 +32,9 @@ Change animation back to TPose from Kick. In Blender, press N, which opens the T
 As shown in the image below (bordered red), in Object Mode, press A to select all. Press S to scale. Type 100 to scale from 0.010 to 1.  
 <img src="/img/8.png" alt="alt text" width="500px">  
 
-As shown in the image below (bordered red), press Ctrl + A to apply. Click All Transforms. Location should all be set to 0, Rotation all to 0, and Scale all to 1.  
+As shown in the image below (bordered red), press Ctrl + A to open the Apply menu. Click All Transforms. Location should all be set to 0, Rotation all to 0, and Scale all to 1.  
 <img src="/img/9.png" alt="alt text" width="500px">  
-I haven't tried yet, but scaling 100X from 0.010 to 1 might be unnecessary. You may only have to do the step above (Ctrl + A and click All Transforms).  
+I haven't tried yet, but scaling 100X from 0.010 to 1 might be unnecessary. You may only have to do the step above (Ctrl + A to open Apply menu and click All Transforms).  
 
 We need to change the two materials, as shown in the image below. Something about them is incompatible with .babylon format.  
 <img src="/img/10.png" alt="alt text" width="500px">  
